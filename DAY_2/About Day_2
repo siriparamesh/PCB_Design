@@ -1,0 +1,8 @@
+Day 2 (Schematic capture design)
+PCB 1-11 + sCREEN SHOT 6 
+-Set up the project
+-Simple Schematic (VCC, gnd, Placing Components, Wires)
+-Creating Schmeatic Lib
+-Connect Bus, Net Alias, Off-page Connector
+-Link Footprint and Check DRC
+-Generate Netlist and BOM
